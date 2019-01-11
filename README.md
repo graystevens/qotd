@@ -1,8 +1,8 @@
-#Quote of the Day (QOTD)
+# Quote of the Day (QOTD)
 An implimentation of [RFC 865](https://tools.ietf.org/html/rfc865), Quote of the Day Protocol, written in Python3
 
 
-##Usage
+## Usage
 ```
 python qotd.py
 ```
@@ -36,5 +36,5 @@ chmod 500 /etc/authbind/byport/17
 authbind python qotd.py
 ```
 
-#Todo
+# Todo
 - Make it IPv6 compatible!
